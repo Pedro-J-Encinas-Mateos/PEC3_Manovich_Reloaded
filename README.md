@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich (./Imagenes/uoc.png)
+# PEC3: Visionando el futuro con las gafas de Manovich ![ ](./Imagenes/uoc.png)
 
 ## Recurso de aprendizaje de Cultura Digital 
 > *[Google Arts & Culture](https://artsandculture.google.com/) y [Autotune](https://www.antarestech.com/es) a través de la mirada de Manovich*
