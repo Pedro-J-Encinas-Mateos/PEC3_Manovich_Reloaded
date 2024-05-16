@@ -1,7 +1,7 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ## Recurso de aprendizaje de Cultura Digital 
-> **[Google Arts & Culture](https://artsandculture.google.com/) y [Autotune](https://www.antarestech.com/es) a través de la mirada de Manovich**
+> *[Google Arts & Culture](https://artsandculture.google.com/) y [Autotune](https://www.antarestech.com/es) a través de la mirada de Manovich*
 
 
 ###### ***Autor:*** Pedro José Encinas Mateos
@@ -52,6 +52,9 @@ Cuando se realiza la transformación de las obras de arte en datos digitales se 
 1. Accesibilidad al Arte: Facilita el acceso a obras de arte y patrimonio cultural desde cualquier lugar.
 2. Educación Visual: Ofrece recursos educativos visuales e interactivos para el aprendizaje del arte y la historia.
 3. Preservación Digital: Ayuda en la preservación digital de obras de arte, asegurando su disponibilidad para futuras generaciones
+
+
+----
 
 
 ## AUTOTUNE: LA VOZ DIGITAL EN LA MÚSICA MODERNA
