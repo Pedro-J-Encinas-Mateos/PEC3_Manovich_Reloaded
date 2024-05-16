@@ -3,10 +3,10 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
+Autor: Pedro José Encinas Mateos
 
 
-Fecha: 
+Fecha: 16/05/2024
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
