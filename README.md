@@ -68,9 +68,14 @@ Autotune dispone de una amplia gama de efectos vocales que pueden ser aplicables
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+  
 * Arte TV. **Autotune, el photoshop de la voz.** [Descúbrelo aquí](https://www.arte.tv/es/videos/104734-001-A/auto-tune-el-photoshop-de-la-voz-1-6/)
 
 * Isaza, Miguel. (17 de diciembre de 2022). **La historia de Auto-Tune: de la geofísica a la música cibernética.** [Descúbrelo aquí](https://www.hispasonic.com/reportajes/historia-creacion-auto-tune-geofisica-revolucion-musical-siglo-xxi/43371)
+  
+* Camila Londoño. (03 de agosto de 2017). **Google Arts & Culture: una forma innovadora de trabajar el arte y la historia en el aula.** [Descúbrelo aquí]([https://www.hispasonic.com/reportajes/historia-creacion-auto-tune-geofisica-revolucion-musical-siglo-xxi/43371](https://eligeeducar.cl/ideas-para-el-aula/google-arts-culture-una-forma-innovadora-de-trabajar-el-arte-y-la-historia-en-el-aula/)
+  
+* Iurisdoc.com. **Google Arts & Culture: ¿quién dice que el arte no interesa?.** Descúbrelo aquí]([https://www.hispasonic.com/reportajes/historia-creacion-auto-tune-geofisica-revolucion-musical-siglo-xxi/43371](https://www.iurisdoc.com/es/google-arts-culture-quien-dice-que-el-arte-no-interesa/))
 
 ----
 
