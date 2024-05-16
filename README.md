@@ -8,8 +8,7 @@ Autor: Pedro José Encinas Mateos
 
 Fecha: 16/05/2024
 
-![Cultura Digital](Cultura_Digital_pequeño.jpg){width=300px height=200px}
-
+![Cultura Digital](Cultura_Digital_pequeño.jpg)
 
 
 ## Planteamiento
