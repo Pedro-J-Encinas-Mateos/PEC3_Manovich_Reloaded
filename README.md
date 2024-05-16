@@ -1,11 +1,9 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
+## Recurso de aprendizaje de Cultura Digital 
 
 
 Autor: Pedro José Encinas Mateos
-
-
 Fecha: 16/05/2024
 
 ![Cultura Digital](Cultura_Digital_pequeño.jpg)
