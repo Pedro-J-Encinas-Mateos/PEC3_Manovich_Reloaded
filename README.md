@@ -49,9 +49,9 @@ Cuando se realiza la transformación de las obras de arte en datos digitales se 
 
 #### Ventajas
 
-1. Accesibilidad al Arte: Facilita el acceso a obras de arte y patrimonio cultural desde cualquier lugar.
-2. Educación Visual: Ofrece recursos educativos visuales e interactivos para el aprendizaje del arte y la historia.
-3. Preservación Digital: Ayuda en la preservación digital de obras de arte, asegurando su disponibilidad para futuras generaciones
+1. ***Accesibilidad al Arte***: Facilita el acceso a obras de arte y patrimonio cultural desde cualquier lugar.
+2. ***Educación Visual***: Ofrece recursos educativos visuales e interactivos para el aprendizaje del arte y la historia.
+3. ***Preservación Digital:*** Ayuda en la preservación digital de obras de arte, asegurando su disponibilidad para futuras generaciones
 
 
 ----
@@ -77,9 +77,9 @@ Autotune dispone de una amplia gama de efectos vocales que pueden ser aplicables
 
 #### Ventajas
 
-1. Mejora Vocal: Permite a cantantes ajustar y mejorar sus voces, produciendo interpretaciones más precisas.
-2. Creatividad Musical: Facilita la experimentación con efectos vocales, ampliando las posibilidades creativas en la música.
-3. Accesibilidad Musical: Hace que la producción musical de alta calidad sea accesible para músicos aficionados y profesionales.
+1. ***Mejora Vocal:*** Permite a cantantes ajustar y mejorar sus voces, produciendo interpretaciones más precisas.
+2. ***Creatividad Musical:*** Facilita la experimentación con efectos vocales, ampliando las posibilidades creativas en la música.
+3. ***Accesibilidad Musical:*** Hace que la producción musical de alta calidad sea accesible para músicos aficionados y profesionales.
 
 
 ### Referencias y Bibliografía
