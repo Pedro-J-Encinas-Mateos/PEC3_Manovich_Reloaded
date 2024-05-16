@@ -68,4 +68,5 @@ Autotune dispone de una amplia gama de efectos vocales que pueden ser aplicables
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
+Imágenes generadas por IA, propiedad del autor del artículo.
