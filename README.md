@@ -29,6 +29,8 @@ Ambos ejemplos no solo demuestran la aplicación de los principios de Manovich, 
 
 ## GOOGLE ARTS & CULTURE: EL ARTE AL ALCANCE DE LA MANO
 
+![Google Arts & Culture](Google_Arts_&_Culture.jpeg)
+
 Google Arts & Culture consigue integrar la tecnología disponible hoy en día con el arte y la cultura lo que nos permiten poder disfrutar de una experiencia única y accesible para todos los usuarios. En él se redefine la forma de acceso y la interacción con la cultura.
 
 Esto permite convertir obras de arte físicas en información digital con una alta resolución. Las pinturas, esculturas o documentos se digitalizan permitiendo una reproducción precisa y detallada para su consulta. Esta representación numérica preserva las obras permitiendo su estudio y evitando el deterioro de estas, acción que permite a los usuarios acercarse hasta el más mínimo detalle de cada obra, algo que en una visita física seria inimaginable. Esta posibilita y transforma la forma de explorar y disfrutar del arte, así como la interactuación con las obras que a la larga permite un entendimiento más profundo y enriquecedor de la experiencia.
@@ -46,6 +48,8 @@ Cuando se realiza la transformación de las obras de arte en datos digitales se 
 
 
 ## AUTOTUNE: LA VOZ DIGITAL EN LA MÚSICA MODERNA
+
+![Autotune](Autotune.jpg)
 
 Autotune es una herramienta software que ha revolucionado el mundo de la producción musical, ejemplificando una hibridación que fusiona técnicas tradicionales de canto vocal con la producción musical utilizando tecnologías digitales avanzadas transformando la creación de la música. 
 
