@@ -45,11 +45,17 @@ Estas experiencias personalizadas únicas podrían dar la posibilidad a cada usu
 
 Cuando se realiza la transformación de las obras de arte en datos digitales se permite reinterpretar el arte y la cultura, ofreciendo nuevas formas de interactuar y entender las obras. La digitalización de las colecciones facilita el acceso al arte por parte de los usuarios de cualquier parte del mundo. Esta representación del arte dentro del mundo digital facilita una nueva forma de aprendizaje y apreciación del arte y la cultura, integrando elementos interactivos y multimedia para enriquecer la experiencia educativa.
 
+#### Ventajas
 
+1. Accesibilidad al Arte: Facilita el acceso a obras de arte y patrimonio cultural desde cualquier lugar.
+2. Educación Visual: Ofrece recursos educativos visuales e interactivos para el aprendizaje del arte y la historia.
+3. Preservación Digital: Ayuda en la preservación digital de obras de arte, asegurando su disponibilidad para futuras generaciones
 
 ## AUTOTUNE: LA VOZ DIGITAL EN LA MÚSICA MODERNA
 
 ![Autotune](Autotune.jpg)
+
+#### Hibridación
 
 Autotune es una herramienta software que ha revolucionado el mundo de la producción musical, ejemplificando una hibridación que fusiona técnicas tradicionales de canto vocal con la producción musical utilizando tecnologías digitales avanzadas transformando la creación de la música. 
 
@@ -63,7 +69,11 @@ La aplicación puede corregir automáticamente el tono de una voz en tiempo real
 
 Autotune dispone de una amplia gama de efectos vocales que pueden ser aplicables a la voz del artista. Esto permite tanto correcciones sutiles poco perceptibles como efectos robóticos. Los artistas pueden ajustar la configuración de Autotune para crear diferentes atmósferas y estilos en sus canciones, adaptándose a diversos géneros musicales. Estas posibles variaciones en la interpretación permiten una experimentación continua, ampliando las posibilidades de interpretación de la voz humana.Esto nos lleva a una transcodificación cultural que se ve reflejada en la percepción del proceso de la producción de la música dando la sensación de que la interpretación vocal está al alcance de cualquier persona que disponga de este software incluso disponible en modo online.  La tecnología no solo ha influido en cómo se produce la música, sino también en cómo es consumida y en la valoración que se realiza de la misma, generando debates sobre la autenticidad y el talento en los artistas. Sin embargo, muchos artistas lo consideran una herramienta creativa que expande las posibilidades en la música. Esta dualidad redefine las costumbres del mercado musical.
 
+#### Ventajas
 
+1. Mejora Vocal: Permite a cantantes ajustar y mejorar sus voces, produciendo interpretaciones más precisas.
+2. Creatividad Musical: Facilita la experimentación con efectos vocales, ampliando las posibilidades creativas en la música.
+3. Accesibilidad Musical: Hace que la producción musical de alta calidad sea accesible para músicos aficionados y profesionales.
 
 ### Referencias y Bibliografía
 
