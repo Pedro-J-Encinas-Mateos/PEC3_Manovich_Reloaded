@@ -75,7 +75,7 @@ Autotune dispone de una amplia gama de efectos vocales que pueden ser aplicables
   
 * Camila Londoño. (03 de agosto de 2017). **Google Arts & Culture: una forma innovadora de trabajar el arte y la historia en el aula.** [Descúbrelo aquí]([https://www.hispasonic.com/reportajes/historia-creacion-auto-tune-geofisica-revolucion-musical-siglo-xxi/43371](https://eligeeducar.cl/ideas-para-el-aula/google-arts-culture-una-forma-innovadora-de-trabajar-el-arte-y-la-historia-en-el-aula/)
   
-* Iurisdoc.com. **Google Arts & Culture: ¿quién dice que el arte no interesa?.** Descúbrelo aquí]([https://www.hispasonic.com/reportajes/historia-creacion-auto-tune-geofisica-revolucion-musical-siglo-xxi/43371](https://www.iurisdoc.com/es/google-arts-culture-quien-dice-que-el-arte-no-interesa/))
+* Iurisdoc.com. **Google Arts & Culture: ¿quién dice que el arte no interesa?.** [Descúbrelo aquí]([https://www.hispasonic.com/reportajes/historia-creacion-auto-tune-geofisica-revolucion-musical-siglo-xxi/43371](https://www.iurisdoc.com/es/google-arts-culture-quien-dice-que-el-arte-no-interesa/))
 
 ----
 
