@@ -8,7 +8,7 @@ Autor: Pedro José Encinas Mateos
 
 Fecha: 16/05/2024
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](Cultura_Digital.jpg) 
 
 
 
