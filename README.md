@@ -1,7 +1,7 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ## Recurso de aprendizaje de Cultura Digital 
-> **Google Arts & Culture a través de las Gafas de Manovich**
+> **Google Arts & Culture y Autotune a través de la mirada de Manovich**
 
 
 Autor: Pedro José Encinas Mateos
