@@ -4,9 +4,11 @@
 
 
 Autor: Pedro José Encinas Mateos
+
 Fecha: 16/05/2024
 
 ![Cultura Digital](Cultura_Digital_pequeño.jpg)
+
 
 
 ## INTRODUCCIÓN
