@@ -90,9 +90,11 @@ Autotune dispone de una amplia gama de efectos vocales que pueden ser aplicables
 
 * Isaza, Miguel. (17 de diciembre de 2022). **La historia de Auto-Tune: de la geofísica a la música cibernética.** [Descúbrelo aquí](https://www.hispasonic.com/reportajes/historia-creacion-auto-tune-geofisica-revolucion-musical-siglo-xxi/43371)
     
-* Camila Londoño. (03 de agosto de 2017). **Google Arts & Culture: una forma innovadora de trabajar el arte y la historia en el aula.** [Descúbrelo aquí](https://eligeeducar.cl/ideas-para-el-aula/google-arts-culture-una-forma-innovadora-de-trabajar-el-arte-y-la-historia-en-el-aula/)
+* Londoño, Camila. (03 de agosto de 2017). **Google Arts & Culture: una forma innovadora de trabajar el arte y la historia en el aula.** [Descúbrelo aquí](https://eligeeducar.cl/ideas-para-el-aula/google-arts-culture-una-forma-innovadora-de-trabajar-el-arte-y-la-historia-en-el-aula/)
   
 * Iurisdoc.com. **Google Arts & Culture: ¿quién dice que el arte no interesa?.** [Descúbrelo aquí](https://www.iurisdoc.com/es/google-arts-culture-quien-dice-que-el-arte-no-interesa/)
+
+* Fernández, Yubal. (25 de enero de 2024). **Art Selfie 2: cómo generar tu selfie basado en obras de arte con la inteligencia artificial de Google** [Descúbrelo aquí](https://www.xataka.com/basics/art-selfie-2-como-generar-tu-selfie-basado-obras-arte-inteligencia-artificial-google)
 
 ----
 
