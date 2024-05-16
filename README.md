@@ -33,6 +33,8 @@ Ambos ejemplos no solo demuestran la aplicación de los principios de Manovich, 
 
 Google Arts & Culture consigue integrar la tecnología disponible hoy en día con el arte y la cultura lo que nos permiten poder disfrutar de una experiencia única y accesible para todos los usuarios. En él se redefine la forma de acceso y la interacción con la cultura.
 
+#### Revolución
+
 Esto permite convertir obras de arte físicas en información digital con una alta resolución. Las pinturas, esculturas o documentos se digitalizan permitiendo una reproducción precisa y detallada para su consulta. Esta representación numérica preserva las obras permitiendo su estudio y evitando el deterioro de estas, acción que permite a los usuarios acercarse hasta el más mínimo detalle de cada obra, algo que en una visita física seria inimaginable. Esta posibilita y transforma la forma de explorar y disfrutar del arte, así como la interactuación con las obras que a la larga permite un entendimiento más profundo y enriquecedor de la experiencia.
 
 Google Arts & Culture permite organizar el contenido de forma independiente según el tipo de contenido lo que puede permitir experiencias personalizadas en cada visita. 
@@ -50,6 +52,7 @@ Cuando se realiza la transformación de las obras de arte en datos digitales se 
 1. Accesibilidad al Arte: Facilita el acceso a obras de arte y patrimonio cultural desde cualquier lugar.
 2. Educación Visual: Ofrece recursos educativos visuales e interactivos para el aprendizaje del arte y la historia.
 3. Preservación Digital: Ayuda en la preservación digital de obras de arte, asegurando su disponibilidad para futuras generaciones
+
 
 ## AUTOTUNE: LA VOZ DIGITAL EN LA MÚSICA MODERNA
 
@@ -74,6 +77,7 @@ Autotune dispone de una amplia gama de efectos vocales que pueden ser aplicables
 1. Mejora Vocal: Permite a cantantes ajustar y mejorar sus voces, produciendo interpretaciones más precisas.
 2. Creatividad Musical: Facilita la experimentación con efectos vocales, ampliando las posibilidades creativas en la música.
 3. Accesibilidad Musical: Hace que la producción musical de alta calidad sea accesible para músicos aficionados y profesionales.
+
 
 ### Referencias y Bibliografía
 
