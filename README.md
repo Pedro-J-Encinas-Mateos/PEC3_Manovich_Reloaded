@@ -23,11 +23,17 @@ Ambos ejemplos no solo demuestran la aplicación de los principios de Manovich, 
 ## GOOGLE ARTS & CULTURE: EL ARTE AL ALCANCE DE LA MANO
 
 Google Arts & Culture consigue integrar la tecnología disponible hoy en día con el arte y la cultura lo que nos permiten poder disfrutar de una experiencia única y accesible para todos los usuarios. En él se redefine la forma de acceso y la interacción con la cultura.
+
 Esto permite convertir obras de arte físicas en información digital con una alta resolución. Las pinturas, esculturas o documentos se digitalizan permitiendo una reproducción precisa y detallada para su consulta. Esta representación numérica preserva las obras permitiendo su estudio y evitando el deterioro de estas, acción que permite a los usuarios acercarse hasta el más mínimo detalle de cada obra, algo que en una visita física seria inimaginable. Esta posibilita y transforma la forma de explorar y disfrutar del arte, así como la interactuación con las obras que a la larga permite un entendimiento más profundo y enriquecedor de la experiencia.
+
 Google Arts & Culture permite organizar el contenido de forma independiente según el tipo de contenido lo que puede permitir experiencias personalizadas en cada visita. 
+
 De esta forma los usuarios pueden elegir disfrutar la obra de un solo artista o explorar una colección determinada de obras según sus preferencias lo que permite una flexibilidad durante la visita dando libertad al usuario en su experiencia.
+
 Una funcionalidad de Google Arts&Culture es Art Selfie que utiliza las tecnologías avanzadas disponibles hoy en día como puede ser la inteligencia artificial que facilita la experiencia del usuario. Art Selfie permite descubrir las obras de arte de forma divertida. Esta interacción con el arte es más lúdica y atractiva y además personaliza y enriquece la experiencia del usuario. Los algoritmos utilizados por la inteligencia artificial pueden realizar recomendaciones o sugerir obras y colecciones basadas en las preferencias del usuario, creando un recorrido cultural personalizado.
+
 Estas experiencias personalizadas únicas podrían dar la posibilidad a cada usuario de explorar el arte por temáticas, épocas, estilos o incluso por los colores dominantes en cada obra. Esta capacidad en la variabilidad asegura que cada visita a Google Arts & Culture pueda ser distinta, proporcionando siempre algo nuevo que descubrir.
+
 Cuando se realiza la transformación de las obras de arte en datos digitales se permite reinterpretar el arte y la cultura, ofreciendo nuevas formas de interactuar y entender las obras. La digitalización de las colecciones facilita el acceso al arte por parte de los usuarios de cualquier parte del mundo. Esta representación del arte dentro del mundo digital facilita una nueva forma de aprendizaje y apreciación del arte y la cultura, integrando elementos interactivos y multimedia para enriquecer la experiencia educativa.
 
 ## AUTOTUNE: LA VOZ DIGITAL EN LA MÚSICA MODERNA
