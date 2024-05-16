@@ -4,9 +4,9 @@
 > **[Google Arts & Culture](https://artsandculture.google.com/) y [Autotune](https://www.antarestech.com/es) a través de la mirada de Manovich**
 
 
-Autor: Pedro José Encinas Mateos
+***Autor:*** Pedro José Encinas Mateos
 
-Fecha: 16/05/2024
+***Fecha:*** 16/05/2024
 
 
 ![Cultura Digital](Cultura_Digital_pequeño.jpg)
