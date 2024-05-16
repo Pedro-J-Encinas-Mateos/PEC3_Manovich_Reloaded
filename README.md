@@ -9,7 +9,7 @@
 ###### ***Fecha:*** 16/05/2024
 
 
-![Cultura Digital](Cultura_Digital_pequeño.jpg)
+![Cultura Digital](.\Imagenes\Cultura_Digital_pequeño.jpg)
 
 
 
@@ -29,7 +29,7 @@ Ambos ejemplos no solo demuestran la aplicación de los principios de Manovich, 
 
 ## GOOGLE ARTS & CULTURE: EL ARTE AL ALCANCE DE LA MANO
 
-![Google Arts & Culture](Google_Arts_&_Culture.jpeg)
+![Google Arts & Culture](.\Imagenes\Google_Arts_&_Culture.jpeg)
 
 Google Arts & Culture consigue integrar la tecnología disponible hoy en día con el arte y la cultura lo que nos permiten poder disfrutar de una experiencia única y accesible para todos los usuarios. En él se redefine la forma de acceso y la interacción con la cultura.
 
@@ -59,7 +59,7 @@ Cuando se realiza la transformación de las obras de arte en datos digitales se 
 
 ## AUTOTUNE: LA VOZ DIGITAL EN LA MÚSICA MODERNA
 
-![Autotune](Autotune.jpg)
+![Autotune](.\Imagenes\Autotune.jpg)
 
 #### Hibridación
 
