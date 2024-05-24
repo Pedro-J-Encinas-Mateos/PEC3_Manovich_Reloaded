@@ -33,10 +33,10 @@ Por otro lado, Autotune ha revolucionado la industria permitiendo a los artistas
 
 ![Google Arts & Culture](./Imagenes/Google_Arts_&_Culture.jpeg)
 
-> "La hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes."
+> "En efecto, es posible concebir la multimedia como un caso particular de medios híbridos. Sin embargo, prefiero verla realmente como un solapamiento de dos fenómenos distintos."
 Manovich, L. (2013). *El software toma el mando*. UOC.
 
-Google Arts & Culture consigue integrar la tecnología disponible hoy en día con el arte y la cultura lo que nos permiten poder disfrutar de una experiencia única y accesible para todos los usuarios. En él se redefine la forma de acceso y la interacción con la cultura.
+En Google Arts & Culture se hibridan diversos medios al integrar el arte tradicional con tecnología digital avanzada. La plataforma une elementos de colecciones de arte físico con herramientas digitales interactivas, permitiendo a los usuarios explorar obras de arte, artefactos históricos y exhibiciones virtuales. También colabora con artistas y científicos, utilizando tecnologías como la inteligencia artificial para crear experiencias educativas e inmersivas. Esta combinación ofrece una nueva forma de interacción cultural que trasciende lo físico y lo digital.
 
 #### Revolución
 
@@ -46,9 +46,7 @@ Google Arts & Culture permite organizar el contenido de forma independiente seg�
 
 De esta forma los usuarios pueden elegir disfrutar la obra de un solo artista o explorar una colección determinada de obras según sus preferencias lo que permite una flexibilidad durante la visita dando libertad al usuario en su experiencia.
 
-Una funcionalidad de Google Arts&Culture es Art Selfie que utiliza las tecnologías avanzadas disponibles hoy en día como puede ser la inteligencia artificial que facilita la experiencia del usuario. Art Selfie permite descubrir las obras de arte de forma divertida. Esta interacción con el arte es más lúdica y atractiva y además personaliza y enriquece la experiencia del usuario. Los algoritmos utilizados por la inteligencia artificial pueden realizar recomendaciones o sugerir obras y colecciones basadas en las preferencias del usuario, creando un recorrido cultural personalizado.
-
-Estas experiencias personalizadas únicas podrían dar la posibilidad a cada usuario de explorar el arte por temáticas, épocas, estilos o incluso por los colores dominantes en cada obra. Esta capacidad en la variabilidad asegura que cada visita a Google Arts & Culture pueda ser distinta, proporcionando siempre algo nuevo que descubrir.
+Una funcionalidad de Google Arts&Culture es Art Selfie que utiliza las tecnologías avanzadas disponibles hoy en día como puede ser la inteligencia artificial que facilita la experiencia del usuario y la fotografía tradicional permitiéndonos descubrir las obras de arte de forma divertida. Esta interacción con el arte es más lúdica y atractiva y además personaliza y enriquece la experiencia del usuario. Los algoritmos utilizados por la inteligencia artificial pueden realizar recomendaciones o sugerir obras y colecciones basadas en las preferencias del usuario, creando un recorrido cultural personalizado.
 
 Cuando se realiza la transformación de las obras de arte en datos digitales se permite reinterpretar el arte y la cultura, ofreciendo nuevas formas de interactuar y entender las obras. La digitalización de las colecciones facilita el acceso al arte por parte de los usuarios de cualquier parte del mundo. Esta representación del arte dentro del mundo digital facilita una nueva forma de aprendizaje y apreciación del arte y la cultura, integrando elementos interactivos y multimedia para enriquecer la experiencia educativa.
 
@@ -61,6 +59,10 @@ Cuando se realiza la transformación de las obras de arte en datos digitales se 
 ![Autotune](./Imagenes/Autotune.jpg)
 
 #### Hibridación
+
+
+> "La hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes."
+Manovich, L. (2013). *El software toma el mando*. UOC.
 
 Autotune es una herramienta software que ha revolucionado el mundo de la producción musical, ejemplificando una hibridación que fusiona técnicas tradicionales de canto vocal con la producción musical utilizando tecnologías digitales avanzadas transformando la creación de la música. 
 
