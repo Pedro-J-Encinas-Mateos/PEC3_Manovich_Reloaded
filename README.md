@@ -33,6 +33,9 @@ Por otro lado, Autotune ha revolucionado la industria permitiendo a los artistas
 
 ![Google Arts & Culture](./Imagenes/Google_Arts_&_Culture.jpeg)
 
+> "La hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes."
+Manovich, L. (2013). *El software toma el mando*. UOC.
+
 Google Arts & Culture consigue integrar la tecnología disponible hoy en día con el arte y la cultura lo que nos permiten poder disfrutar de una experiencia única y accesible para todos los usuarios. En él se redefine la forma de acceso y la interacción con la cultura.
 
 #### Revolución
@@ -48,12 +51,6 @@ Una funcionalidad de Google Arts&Culture es Art Selfie que utiliza las tecnolog�
 Estas experiencias personalizadas únicas podrían dar la posibilidad a cada usuario de explorar el arte por temáticas, épocas, estilos o incluso por los colores dominantes en cada obra. Esta capacidad en la variabilidad asegura que cada visita a Google Arts & Culture pueda ser distinta, proporcionando siempre algo nuevo que descubrir.
 
 Cuando se realiza la transformación de las obras de arte en datos digitales se permite reinterpretar el arte y la cultura, ofreciendo nuevas formas de interactuar y entender las obras. La digitalización de las colecciones facilita el acceso al arte por parte de los usuarios de cualquier parte del mundo. Esta representación del arte dentro del mundo digital facilita una nueva forma de aprendizaje y apreciación del arte y la cultura, integrando elementos interactivos y multimedia para enriquecer la experiencia educativa.
-
-#### Ventajas
-
-1. ***Accesibilidad al Arte***: Facilita el acceso a obras de arte y patrimonio cultural desde cualquier lugar.
-2. ***Educación Visual***: Ofrece recursos educativos visuales e interactivos para el aprendizaje del arte y la historia.
-3. ***Preservación Digital:*** Ayuda en la preservación digital de obras de arte, asegurando su disponibilidad para futuras generaciones
 
 
 ----
@@ -76,12 +73,6 @@ Así los artistas y los productores musicales pueden realizar un proceso de perf
 La aplicación puede corregir automáticamente el tono de una voz en tiempo real, eliminando la necesidad de complicados ajustes manuales. Esta automatización además de ahorrar tiempo durante la producción también garantiza un nivel de consistencia y precisión que difícilmente se lograría manualmente. Otra ventaja sería permitir a los artistas concentrarse más en la interpretación y la creatividad ya que la tecnología se va a encargar de la corrección de los posibles errores.
 
 Autotune dispone de una amplia gama de efectos vocales que pueden ser aplicables a la voz del artista. Esto permite tanto correcciones sutiles poco perceptibles como efectos robóticos. Los artistas pueden ajustar la configuración de Autotune para crear diferentes atmósferas y estilos en sus canciones, adaptándose a diversos géneros musicales. Estas posibles variaciones en la interpretación permiten una experimentación continua, ampliando las posibilidades de interpretación de la voz humana.Esto nos lleva a una transcodificación cultural que se ve reflejada en la percepción del proceso de la producción de la música dando la sensación de que la interpretación vocal está al alcance de cualquier persona que disponga de este software incluso disponible en modo online.  La tecnología no solo ha influido en cómo se produce la música, sino también en cómo es consumida y en la valoración que se realiza de la misma, generando debates sobre la autenticidad y el talento en los artistas. Sin embargo, muchos artistas lo consideran una herramienta creativa que expande las posibilidades en la música. Esta dualidad redefine las costumbres del mercado musical.
-
-#### Ventajas
-
-1. ***Mejora Vocal:*** Permite a cantantes ajustar y mejorar sus voces, produciendo interpretaciones más precisas.
-2. ***Creatividad Musical:*** Facilita la experimentación con efectos vocales, ampliando las posibilidades creativas en la música.
-3. ***Accesibilidad Musical:*** Hace que la producción musical de alta calidad sea accesible para músicos aficionados y profesionales.
 
 
 ### Referencias y Bibliografía
