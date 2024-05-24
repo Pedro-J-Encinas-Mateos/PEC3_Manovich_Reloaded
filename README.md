@@ -20,7 +20,7 @@ Manovich, L. (2013). *El software toma el mando*. UOC.
 
 La hibridación de los medios tradicionales ha producido una profunda transformación facilitándonos la forma en como interactuamos con la cultura y el arte, lo que ha llevado a impulsar una convergencia entre los medios tradicionales y las nuevas tecnologías. 
 
-Dos ejemplos de esta hibridación son Google Arts & Culture y el uso de Autotune en la industria musical. Ambos nos enseñan como las formas tradicionales de creación y consumo cultural han variado con el avance del software y los medios. 
+Dos ejemplos de esta hibridación son Google Arts & Culture y el uso de Autotune en la industria musical.
 
 En el caso de Google Arts & Culture transforma completamente la forma de realizar visitas a los museos, permitiendo que el arte sea accesible a todos los niveles mediante la digitalización de alta calidad de las obras o las vistas interactivas de museos famosos. 
 
