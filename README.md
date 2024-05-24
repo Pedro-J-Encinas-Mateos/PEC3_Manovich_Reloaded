@@ -25,7 +25,7 @@ Dos ejemplos de esta hibridación son Google Arts & Culture y el uso de Autotune
 En el caso de Google Arts & Culture transforma completamente la forma de realizar visitas a los museos, permitiendo que el arte sea accesible a todos los niveles mediante la digitalización de alta calidad de las obras o las vistas interactivas de museos famosos. 
 
 Por otro lado, Autotune ha revolucionado la industria permitiendo a los artistas manipular y afinar sus voces como nunca obteniendo correcciones sutiles de la voz o consiguiendo grandes efectos vocales. 
-Ambos ejemplos no solo demuestran la aplicación de los principios de Manovich, sino que también plantean preguntas sobre la autenticidad, la creatividad y la experiencia estética en la era digital.
+
 
 
 
