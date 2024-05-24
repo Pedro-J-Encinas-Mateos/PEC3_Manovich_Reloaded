@@ -15,7 +15,7 @@
 
 ## INTRODUCCIÓN
 
-> "se da una fusión entre los elementos que comparten las técnicas de software y las interfaces generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado" 
+> "La hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes." 
 Manovich, L. (2013). *El software toma el mando*. UOC.
 
 La hibridación de los medios tradicionales ha producido una profunda transformación facilitándonos la forma en como interactuamos con la cultura y el arte, lo que ha llevado a impulsar una convergencia entre los medios tradicionales y las nuevas tecnologías. 
