@@ -13,7 +13,7 @@
 
 
 
-### INTRODUCCIÓN
+### Introducción
 
 
 > "La hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes." 
