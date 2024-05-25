@@ -13,13 +13,14 @@
 
 
 
-## INTRODUCCIÓN
+### INTRODUCCIÓN
 
 
 > "La hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes." 
 Manovich, L. (2013). *El software toma el mando*. UOC.
 
 La hibridación de medios, según Manovich, implica combinar técnicas, formatos de representación, y nuevas técnicas de manipulación de datos exclusivas del ordenador para crear nuevas combinaciones de medios que no eran posibles antes de su conversión a software. ​Manovich, L. (2013). *El software toma el mando*. UOC.
+
 Esta hibridación de los medios tradicionales ha producido una profunda transformación facilitándonos la forma en como interactuamos con la cultura y el arte, lo que ha llevado a impulsar una convergencia entre los medios tradicionales y las nuevas tecnologías. 
 
 Una hibridación de medios se puede reconocer por la combinación de propiedades y técnicas de diferentes medios anteriores, que se interrelacionan para formar nuevos híbridos. Estos no son simplemente una suma de sus partes, sino entidades completamente nuevas que aprovechan las capacidades del software para integrar y reconfigurar sus componentes de manera innovadora​. ​Manovich, L. (2013). *El software toma el mando*. UOC.
@@ -33,7 +34,7 @@ Por otro lado, Autotune ha revolucionado la industria permitiendo a los artistas
 
 
 
-## GOOGLE ARTS & CULTURE: EL ARTE AL ALCANCE DE LA MANO
+### Google Arts & Culture: El arte al alcance de la mano
 
 ![Google Arts & Culture](./Imagenes/Google_Arts_&_Culture.jpeg)
 
@@ -60,7 +61,7 @@ Cuando se realiza la transformación de las obras de arte en datos digitales se 
 ----
 
 
-## AUTOTUNE: LA VOZ DIGITAL EN LA MÚSICA MODERNA
+### Autotune: La voz digital en la música moderna
 
 ![Autotune](./Imagenes/Autotune.jpg)
 
