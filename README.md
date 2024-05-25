@@ -18,9 +18,10 @@
 > "La hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes." 
 Manovich, L. (2013). *El software toma el mando*. UOC.
 
-La hibridación de los medios tradicionales ha producido una profunda transformación facilitándonos la forma en como interactuamos con la cultura y el arte, lo que ha llevado a impulsar una convergencia entre los medios tradicionales y las nuevas tecnologías. 
+La hibridación de medios, según Manovich, implica combinar técnicas, formatos de representación, y nuevas técnicas de manipulación de datos exclusivas del ordenador para crear nuevas combinaciones de medios que no eran posibles antes de su conversión a software, ​Manovich, L. (2013). *El software toma el mando*. UOC.
+Esta hibridación de los medios tradicionales ha producido una profunda transformación facilitándonos la forma en como interactuamos con la cultura y el arte, lo que ha llevado a impulsar una convergencia entre los medios tradicionales y las nuevas tecnologías. 
 
-Dos ejemplos de esta hibridación son Google Arts & Culture y el uso de Autotune en la industria musical.
+Dos ejemplos son Google Arts & Culture y el uso de Autotune en la industria musical.
 
 En el caso de Google Arts & Culture transforma completamente la forma de realizar visitas a los museos, permitiendo que el arte sea accesible a todos los niveles mediante la digitalización de alta calidad de las obras o las vistas interactivas de museos famosos. 
 
@@ -36,7 +37,9 @@ Por otro lado, Autotune ha revolucionado la industria permitiendo a los artistas
 > "En efecto, es posible concebir la multimedia como un caso particular de medios híbridos. Sin embargo, prefiero verla realmente como un solapamiento de dos fenómenos distintos."
 Manovich, L. (2013). *El software toma el mando*. UOC.
 
-En Google Arts & Culture se hibridan diversos medios al integrar el arte tradicional con tecnología digital avanzada. La plataforma une elementos de colecciones de arte físico con herramientas digitales interactivas, permitiendo a los usuarios explorar obras de arte, artefactos históricos y exhibiciones virtuales. También colabora con artistas y científicos, utilizando tecnologías como la inteligencia artificial para crear experiencias educativas e inmersivas. Esta combinación ofrece una nueva forma de interacción cultural que trasciende lo físico y lo digital.
+Google Arts & Culture hibrida imágenes de alta resolución de obras de arte tradicional con tecnología digital avanza proporcionadas por tecnologías de visualización en 3D y realidad aumentada. Permite a los usuarios explorar detalles que serían difíciles de ver a simple vista y proporciona un contexto histórico y cultural que enriquece la experiencia.
+También colabora con artistas y científicos, utilizando tecnologías como la inteligencia artificial para crear experiencias educativas e inmersivas. Esta combinación ofrece una nueva forma de interacción cultural que trasciende lo físico y lo digital.
+
 
 #### Revolución
 
